@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 * Ruby On Rails by Cris
+* Testing Repo
 * 
