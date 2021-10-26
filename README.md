@@ -22,5 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-* Ruby On Rails
+* Ruby On Rails by Cris
 * 
